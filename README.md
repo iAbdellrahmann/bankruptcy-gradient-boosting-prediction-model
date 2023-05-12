@@ -12,7 +12,6 @@ Explore data collected by a team of Polish economists studying bankruptcy. Then 
 ### For many Taske I've used Feature : X27 -> profit on operating activities / financial expenses
 
 ### Resampling Dataset
-* the data was imbalanced
 ![image](https://github.com/iAbdellrahmann/bankruptcy-gradient-boosting-prediction-model/assets/39285876/e97a5935-30e3-4fee-a7c4-e731166283c2)
 * applied a Over sample technique to overcome this problem.
 
