@@ -10,3 +10,8 @@ Explore data collected by a team of Polish economists studying bankruptcy. Then 
 [Data Features](https://github.com/iAbdellrahmann/bankruptcy-gradient-boosting-prediction-model/blob/codespace-iabdellrahmann-turbo-orbit-4gpqjjgprgj2qwjj/notebooks/data_dictionary.ipynb)
 
 ### For many Taske I've used Feature : X27 -> profit on operating activities / financial expenses
+
+* Resampling Dataset
+* the data was imbalanced 
+[image](![image](https://github.com/iAbdellrahmann/bankruptcy-gradient-boosting-prediction-model/assets/39285876/e97a5935-30e3-4fee-a7c4-e731166283c2)
+)
