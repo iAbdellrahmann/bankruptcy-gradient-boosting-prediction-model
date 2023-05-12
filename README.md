@@ -6,7 +6,7 @@ Explore data collected by a team of Polish economists studying bankruptcy. Then 
 
 * the data contains financial rates from 1st year of the forecasting period and corresponding class label that indicates bankruptcy status after 5 years. The data contains 7027 instances (financial statements), 271 represents bankrupted companies, 6756 firms that did not bankrupt in the forecasting period.
 
-### Attribute Information:
+### Features Information:
 [Data information](https://github.com/iAbdellrahmann/bankruptcy-gradient-boosting-prediction-model/blob/codespace-iabdellrahmann-turbo-orbit-4gpqjjgprgj2qwjj/notebooks/data_dictionary.ipynb)
 
 ### For many Taske I've used Feature : X27 -> profit on operating activities / financial expenses
